@@ -16,7 +16,7 @@ NSFW_POSE_EXPANSIONS = {
     "back arched standing": "standing with back deeply arched pushing chest forward and ass out",
     "bent over": "bent over at the waist, ass presented, upper body lowered",
     "bent over looking back": "bent over at the waist looking back over shoulder, ass prominently displayed",
-    "chest pressed together arms": "arms pressing breasts together, enhancing cleavage",
+    "chest pressed together arms": "upper arms squeezing breasts together from the outside, pushing them up and forward, deepening cleavage",
     "hands and knees": "on hands and knees, back slightly arched",
     "kneeling legs apart": "kneeling with knees spread wide apart",
     "kneeling looking up": "kneeling on the floor looking up with lips slightly parted",
